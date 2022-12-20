@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 244, 229);
+    font-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    list-style-position: inside;
+}
+
+.text-coral {
+    color: rgb(247, 98, 44);
+    font-style: italic;
+}
+.text-green {
+    color: rgb(77, 160, 77);
+}
+.text-blue {
+    color: rgb(56, 128, 192);
+}
